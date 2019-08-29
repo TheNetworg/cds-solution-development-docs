@@ -1,0 +1,1 @@
+# The repository was moved to [this URL](https://github.com/NETWORG/cds-solution-development-docs), we are sorry for the inconvenience
